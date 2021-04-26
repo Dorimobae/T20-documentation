@@ -3,7 +3,7 @@
 ## How to read this documentation
 
 ---
-**NOTE**
+NOTE
 
 BLA BLA BLA BLA
 ---
