@@ -2,4 +2,8 @@
 
 ## How to read this documentation
 
-###### hu
+---
+**NOTE**
+
+BLA BLA BLA BLA
+---
