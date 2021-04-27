@@ -8,7 +8,7 @@ Do not literally type out <> [] | etc.
 
 # Table of content
 
-[Configuration](# configuration)
+[Configuration](#-configuration)
 
 # configuration
 
