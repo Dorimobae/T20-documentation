@@ -13,15 +13,15 @@ The prefix used in the documentation is "-", replace this with your server's pre
 # Table of content
 
 [Setting up the bot](#-Setting-up-the-bot)
-[Toggling commands]
-[Toggling logging]
-[Introduction to Botscript]
-[Botscript - advanced usage]
-[Embed builder]
-[Auto moderation]
-[Resetting data]
-[Upcoming commands and features]
-[Changelog]
+[Toggling commands](#-Toggling-commands)
+[Toggling logging](#-Toggling-logging)
+[Introduction to Botscript](#-Introduction-to-botscript)
+[Botscript - Advanced usage](#-Botscript---Advanced-usage)
+[Embed builder](#-Embed-builder)
+[Auto moderation](#-Auto-moderation)
+[Resetting data](#-Resetting-date)
+[Upcoming commands and features](#-Upcoming-commands-and-features)
+[Changelog](#-Changelog)
 
 
 # Setting up the bot
@@ -34,6 +34,23 @@ In order too start the setup, use "-set".
 
 **Note-:** Using "-set" without any arguments gives you all available options to set for your server
 
+# Toggling commands
+
+# Toggling logging
+
+# Introduction to botscript
+
+# botscript - Advanced usage
+
+# Embed builder
+
+# Auto Moderation
+
+# Resetting data
+
+# Upcoming commands and features
+
+# Changelog
 
 
 
