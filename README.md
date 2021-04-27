@@ -6,8 +6,9 @@ This documentation shows you how to use T20's botscript and walks you through di
 
 Do not literally type out <> [] | etc.
 
-##Table of content
-[Configuration](#configuration)
+# Table of content
 
-#configuration
+[Configuration](# configuration)
+
+# configuration
 
