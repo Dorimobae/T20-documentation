@@ -14,14 +14,14 @@ The prefix used in the documentation is "-", replace this with your server's pre
 
 * [Setting up the bot](#-Setting-up-the-bot)
 * [Toggling commands](#-Toggling-commands)
-*[Toggling logging](#-Toggling-logging)
-*[Introduction to Botscript](#-Introduction-to-botscript)
-*[Botscript - Advanced usage](#-Botscript---Advanced-usage)
-*[Embed builder](#-Embed-builder)
-*[Auto moderation](#-Auto-moderation)
-*[Resetting data](#-Resetting-date)
-*[Upcoming commands and features](#-Upcoming-commands-and-features)
-*[Changelog](#-Changelog)
+* [Toggling logging](#-Toggling-logging)
+* [Introduction to Botscript](#-Introduction-to-botscript)
+* [Botscript - Advanced usage](#-Botscript---Advanced-usage)
+* [Embed builder](#-Embed-builder)
+* [Auto moderation](#-Auto-moderation)
+* [Resetting data](#-Resetting-date)
+* [Upcoming commands and features](#-Upcoming-commands-and-features)
+* [Changelog](#-Changelog)
 
 
 # Setting up the bot
