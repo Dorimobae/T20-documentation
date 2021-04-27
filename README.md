@@ -8,7 +8,7 @@ Do not literally type out <> [] | etc.
 
 # Table of content
 
-[Configuration](#-configuration)
+[Setting up the bot](#-Setting-up-the-bot)
 
-# configuration
+# Setting up the bot
 
