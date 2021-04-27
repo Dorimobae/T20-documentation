@@ -2,10 +2,12 @@
 
 ## How to read this documentation
 
-```diff
-- >  text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+This documentation shows you how to use T20's botscript and walks you through different setups and commands to improve your server!
+
+Do not literally type out <> [] | etc.
+
+##Table of content
+[Configuration](#configuration)
+
+#configuration
+
