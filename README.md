@@ -12,7 +12,7 @@ The prefix used in the documentation is "-", replace this with your server's pre
 
 # Table of content
 
-* [Setting up the bot](#-Setting-up-the-bot)
+* [Setting up the bot](#-setting-up-the-bot)
 * [Toggling commands](#-Toggling-commands)
 * [Toggling logging](#-Toggling-logging)
 * [Introduction to Botscript](#-Introduction-to-botscript)
